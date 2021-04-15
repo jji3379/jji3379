@@ -1,4 +1,4 @@
-<h2 align="center" > 안녕하세요!! 개발과 디버깅을 즐기고 있는 신입 개발자 전준익 입니다! </h2>
+<h3 align="center" > 안녕하세요!! 개발과 디버깅을 즐기고 있는 신입 개발자 전준익 입니다! </h3></br>
 
 <h3 align="center"> 🔨Tech Stack🔧 </h3>
 <p align="center"> 
@@ -22,3 +22,6 @@
   <img src="https://i.ibb.co/dg0r2Pw/pngegg-12.png" alt="pngegg-12" border="0">
   <img src="https://i.ibb.co/V2FsKT5/pngegg-13.png" alt="pngegg-13" border="0">
 </p>
+</br>
+<p>🧗🏻  현재 공부중인 분야 : Spring-boot, Restful-Api, 알고리즘, 정보처리기사</p>
+<p>🧑🏻‍💻   이후 공부 예정 분야 : JPA, mysql</p>
