@@ -23,5 +23,5 @@
   <img src="https://i.ibb.co/V2FsKT5/pngegg-13.png" alt="pngegg-13" border="0">
 </p>
 </br>
-<p>🧗🏻  현재 공부중인 분야 : Spring-boot, Restful-Api, 알고리즘, 정보처리기사</p>
-<p>🧑🏻‍💻   이후 공부 예정 분야 : JPA, mysql</p>
+<p>🧗🏻  현재 공부중인 분야 : Restful-Api, mariaDB, mySQL, 전자정부 프레임워크</p>
+<p>🧑🏻‍💻   이후 공부 예정 분야 : Spring-boot, JPA, 정보처리기사 실기</p>
