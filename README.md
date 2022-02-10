@@ -2,26 +2,51 @@
 
 <h3 align="center"> 🔨Tech Stack🔧 </h3>
 <p align="center"> 
-  <img src="https://i.ibb.co/p1X2zcZ/14072054271548141949-64.png" alt="14072054271548141949-64" border="0"> 
-  <img src="https://i.ibb.co/tx83H9d/21337745421536211768-64.png" alt="21337745421536211768-64" border="0">
-  <img src="https://i.ibb.co/ZJnhYhH/javascript-1.png" alt="javascript-1" border="0">
-  <img src="https://i.ibb.co/Pjrxf0j/pngegg.png" alt="pngegg" border="0">
+  <img 
+        src="http://img.shields.io/badge/-HTML-4FFF98?style=flat&logo=HTML5"/>
+  <img 
+        src="http://img.shields.io/badge/-CSS-4FFF98?style=flat&logo=CSS3"/>
+  <img 
+        src="http://img.shields.io/badge/-JS-4FFF98?style=flat&logo=JavaScript"/>
+  <img 
+        src="http://img.shields.io/badge/-jQuery-4FFF98?style=flat&logo=jQuery"/>
 </p>
 <p align="center"> 
-  <img src="https://i.ibb.co/gVqwV7y/pngegg-1.png" alt="pngegg-1" border="0">
-  <img src="https://i.ibb.co/fQ8VnrN/pngegg-2.png" alt="pngegg-2" border="0">
-  <img src="https://i.ibb.co/2dY0R6Y/pngegg-4.png" alt="pngegg-4" border="0">
-  <img src="https://i.ibb.co/vL8mDHs/pngegg-14.png" alt="pngegg-14" border="0">
+  <img 
+        src="http://img.shields.io/badge/-JAVA-FF4336?style=flat&logo=Java"/>
+  <img 
+        src="http://img.shields.io/badge/-Spring-FF4336?style=flat&logo=Spring"/>
+  <img 
+        src="http://img.shields.io/badge/-Oracle-FF4336?style=flat&logo=Oracle"/>
+  <img 
+        src="http://img.shields.io/badge/-Mysql-FF4336?style=flat&logo=Mysql"/>
+   <img 
+        src="http://img.shields.io/badge/-Mybatis-FF4336?style=flat"/>
+   <img 
+        src="http://img.shields.io/badge/-JPA-FF4336?style=flat"/>
 </p>
 <p align="center"> 
-  <img src="https://i.ibb.co/XWzSmz3/pngegg-8.png" alt="pngegg-8" border="0">
-  <img src="https://i.ibb.co/w6Pp4MM/pngegg-6.png" alt="pngegg-6" border="0">
-  <img src="https://i.ibb.co/4Kn6vhZ/pngegg-10.png" alt="pngegg-10" border="0">
-  <img src="https://i.ibb.co/stw1T3K/pngegg-9.png" alt="pngegg-9" border="0">
-  <img src="https://i.ibb.co/xDS75mK/pngegg-11.png" alt="pngegg-11" border="0">
-  <img src="https://i.ibb.co/dg0r2Pw/pngegg-12.png" alt="pngegg-12" border="0">
-  <img src="https://i.ibb.co/V2FsKT5/pngegg-13.png" alt="pngegg-13" border="0">
+  <img 
+        src="http://img.shields.io/badge/-AWS EC2-6E69FF?style=flat&logo=Amazon AWS"/>
+  <img 
+        src="http://img.shields.io/badge/-AWS RDS-6E69FF?style=flat&logo=Amazon AWS"/>
+  <img 
+        src="http://img.shields.io/badge/-Route 53-6E69FF?style=flat&logo=Amazon AWS"/>
 </p>
 </br>
-<p>🧗🏻  현재 공부중인 분야 : Restful-Api, mariaDB, mySQL, 전자정부 프레임워크</p>
-<p>🧑🏻‍💻   이후 공부 예정 분야 : Spring-boot, JPA, 정보처리기사 실기</p>
+<p>:runner:  현재 공부중인 분야 : 
+  <img 
+        src="http://img.shields.io/badge/-JPA-2BCCC9?style=flat"/>
+  <img 
+        src="http://img.shields.io/badge/-Mysql-2BCCC9?style=flat"/>
+  <img 
+        src="http://img.shields.io/badge/-Restful Api-2BCCC9?style=flat"/>
+</p>
+<p>:punch:   이후 공부 예정 분야 : 
+  <img 
+        src="http://img.shields.io/badge/-Spring Security-FF5CD8?style=flat"/>
+  <img 
+        src="http://img.shields.io/badge/-Exception Handler-FF5CD8?style=flat"/>
+  <img 
+        src="http://img.shields.io/badge/-Network-FF5CD8?style=flat"/>
+</p>
