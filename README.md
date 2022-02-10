@@ -24,6 +24,8 @@
         src="http://img.shields.io/badge/-Mybatis-FF4336?style=flat"/>
    <img 
         src="http://img.shields.io/badge/-JPA-FF4336?style=flat"/>
+   <img 
+        src="http://img.shields.io/badge/-QueryDSL-FF4336?style=flat"/>
 </p>
 <p align="center"> 
   <img 
@@ -37,6 +39,8 @@
 <p>:runner:  현재 공부중인 분야 : 
   <img 
         src="http://img.shields.io/badge/-JPA-2BCCC9?style=flat"/>
+  <img 
+        src="http://img.shields.io/badge/-QueryDSL-2BCCC9?style=flat"/>
   <img 
         src="http://img.shields.io/badge/-Mysql-2BCCC9?style=flat"/>
   <img 
