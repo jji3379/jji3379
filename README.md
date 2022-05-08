@@ -1,5 +1,3 @@
-<h3 align="center" > 안녕하세요!! 개발과 디버깅을 즐기고 있는 신입 개발자 전준익 입니다! </h3></br>
-
 <h3 align="center"> 🔨Tech Stack🔧 </h3>
 <p align="center"> 
   <img 
@@ -38,19 +36,17 @@
 </br>
 <p>:runner:  현재 공부중인 분야 : 
   <img 
-        src="http://img.shields.io/badge/-JPA-2BCCC9?style=flat"/>
+        src="http://img.shields.io/badge/-Spring Security-2BCCC9?style=flat"/>
   <img 
-        src="http://img.shields.io/badge/-QueryDSL-2BCCC9?style=flat"/>
+        src="http://img.shields.io/badge/-토비의 스프링-2BCCC9?style=flat"/>
   <img 
-        src="http://img.shields.io/badge/-Mysql-2BCCC9?style=flat"/>
+        src="http://img.shields.io/badge/-Effective Java-2BCCC9?style=flat"/>
   <img 
-        src="http://img.shields.io/badge/-Restful Api-2BCCC9?style=flat"/>
+        src="http://img.shields.io/badge/-Spring Cloud-2BCCC9?style=flat"/>
 </p>
 <p>:punch:   이후 공부 예정 분야 : 
   <img 
-        src="http://img.shields.io/badge/-Spring Security-FF5CD8?style=flat"/>
+        src="http://img.shields.io/badge/-MicroService Architecture-FF5CD8?style=flat"/>
   <img 
-        src="http://img.shields.io/badge/-Exception Handler-FF5CD8?style=flat"/>
-  <img 
-        src="http://img.shields.io/badge/-Network-FF5CD8?style=flat"/>
+        src="http://img.shields.io/badge/-Spring Batch-FF5CD8?style=flat"/>
 </p>
