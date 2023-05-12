@@ -7,7 +7,7 @@
 * IntelliJ, DataGrip, DBeaver
 
 ### DevOps
-* AWS EC2, S3, RDS, CloudFront, Route53, Elastic Beanstalk, ECS, ECR, API Gateway
+* AWS EC2, S3, RDS, CloudFront, Route53, Elastic Beanstalk, ECS, ECR, API Gateway, CodeCommit, CodeBuild, CodeDeploy
 * MySQL
 * Docker
 * Ubuntu, Amazon Linux2
