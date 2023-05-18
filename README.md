@@ -1,8 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
-<div align=center>
-  <span>안녕하세요! 서버 개발자 전준익 입니다.</span> </br>
-  <span>Spring Boot 와 JPA 를 주로 사용하고 있으며, AWS 에 관심이 많습니다!</span>
-</div>
+
+<h4 align="center">
+  안녕하세요! 서버 개발자 전준익 입니다.
+</h4>
+
+<h4 align="center">
+  Spring Boot 와 JPA 를 주로 사용하고 있으며, AWS 에 관심이 많습니다!
+</h4>
 
 ## Skills 
 ### Backend
