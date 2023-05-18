@@ -37,5 +37,5 @@
 ## Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jji3379&theme=tokyonight)](https://git.io/streak-stats)
-<img src="https://github.com/jji3379/jji3379/assets/60234579/5b9b852d-920e-4659-89f0-a06616787387">
-<img src="https://github.com/jji3379/jji3379/assets/60234579/c08155e7-5fe6-4c16-af79-0e530ab2c5bc">
+<img src="https://github.com/jji3379/jji3379/assets/60234579/ab3105d5-6567-4755-a5b0-bce72e952d1e">
+<img src="https://github.com/jji3379/jji3379/assets/60234579/e0e4b209-cd43-412a-bdbb-995ed5393fbc">
