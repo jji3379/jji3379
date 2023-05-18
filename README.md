@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
   <span>안녕하세요! 서버 개발자 전준익 입니다.</span> </br>
   <span>Spring Boot 와 JPA 를 주로 사용하고 있으며, AWS 에 관심이 많습니다!</span>
@@ -37,4 +37,5 @@
 ## Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jji3379&theme=tokyonight)](https://git.io/streak-stats)
-
+<img src="https://github.com/jji3379/jji3379/assets/60234579/e46d9011-6d0e-4e08-b2e9-8dd395f034ff">
+<img src="https://github.com/jji3379/jji3379/assets/60234579/b139d279-aed5-4e8b-860f-897c80b35306">
